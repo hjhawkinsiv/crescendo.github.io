@@ -1,0 +1,12 @@
+[book]
+authors = []
+language = "en"
+src = "src"
+title = "create.dev"
+
+
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js  = ["theme/pagetoc.js"]
+fold.enable = true
+fold.level = 0
